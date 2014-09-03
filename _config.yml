@@ -3,7 +3,7 @@ title: Ok Computer
 email: murilloivan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog personal de Iván Murillo. 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://murilloivan.com" # the base hostname & protocol for your site
 twitter_username: ivanhovic
 github_username:  ivanhovic
