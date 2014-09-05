@@ -15,14 +15,16 @@ Aunque existen muchos sitios para comprar dominios, los principales son: [Namech
 Los precios suelen oscilar según la extension de nuestro dominio. Por ejemplo, los **.com** suelen costar entre 7€ y 10€ **al año**. Si nos decidimos por un dominio **.es**, posiblemente nos resulte algo más económico.
 
 #¿Dominio + Hosting?#
-La mayoria de registradores de dominios también ofrecen servicios de hosting. Sin embargo, es recomendable tenerlo separado de la compañia de donde compras el dominio.
-
-Existen hosting caros, baratos, buenos, malos..
+La mayoria de registradores de dominios también ofrecen servicios de hosting. Aunque suene tentador tener todo en un mismo sitio, es recomendable tenerlo separado por las siguientes razones:
+*Los cambios de hosting son muy comunes.*
+*Si por alguna razón pierdes acceso a tu cuenta, puedes llegar a perder ambas cosas.*
 
 #¿Whois?#
-Cuando compras un dominio es necesario que rellenes toda tu informacion personal. Por ello, los registradores te ofrecen, por un pequeño precio, ocultar esa información.
+Whois es un protocolo que accede a una base de datos para rescatar la información del propietario del dominio. Puedes comprobarlo desde la [web] o desde el terminal: `whois wikipedia.org`.
+Como supondrás, que esta información esté online supone un riesgo, por ello, los registradores te ofrecen, por un pequeño precio, ocultar esa información.
 
 [Godaddy]: http://godaddy.com
 [Namecheap]: http://namecheap.com
 [Google]: https://domains.google.com/about/
+[web]: http://whois.net/
 
