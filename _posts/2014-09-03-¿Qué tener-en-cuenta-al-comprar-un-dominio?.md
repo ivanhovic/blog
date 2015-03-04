@@ -5,11 +5,11 @@ date:   2014-08-24 14:46:47
 comments: true
 ---
 #¿Qué es un dominio?#
-Al igual que tienes un documento de identificación personal y un email unicos, toda web en internet tiene una única identificación: la dirección **IP**.
+Al igual que tienes un documento de identificación personal y un email únicos, toda web en internet tiene una única identificación: la dirección **IP**.
 
 Las direcciónes IP son números (192.168.3.14), el problema es que son dificiles de recordar. Imagina que en vez de escribir en el navegador wikipedia.org, tuvieras que escribir 192.168.3.14. Un poco lio, ¿no?.
-Por ello se inventó el DNS, una especie de diccionario que traduce un nombre sencillo a una dirección IP. 
 
+Por ello se inventó el DNS, una especie de diccionario que traduce un nombre sencillo a una dirección IP.
 Lo que en realidad pasa cuando escribes en el navegador wikipedia.org es que se busca ese nombre en el diccionario y se devuelve su correspondiente dirección IP.
 Esos nombres son los dominios.
 
