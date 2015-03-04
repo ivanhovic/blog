@@ -31,7 +31,7 @@ La mayoria de registradores de dominios también ofrecen servicios de hosting. A
 Whois es un protocolo que accede a una base de datos para rescatar información personal sobre el propietario de un dominio.
 Puedes comprobarlo desde la [web] o desde el terminal: `whois`.
 
-Como supondrás, que esta información esté online supone un riesgo, por ello, los registradores te ofrecen, por un pequeño precio, ocultar esa información.
+Como supondrás, que esta información esté online supone un riesgo, por ello, los registradores te ofrecen, por un pequeño precio, ocultar esa información. Totalmente recomendado.
 
 [Godaddy]: http://godaddy.com
 [Namecheap]: http://namecheap.com
