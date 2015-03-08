@@ -6,7 +6,7 @@ comments: true
 ---
 #¿Qué es Heroku?#
 [Heroku] permite construir y correr aplicaciones web hechas en PHP, Python, Ruby, Java...
-![My helpful screenshot]({{ site.url }}/assets/Heroku_logo.jpg)
+![My helpful screenshot]({{ site.url }}/assets/Heroku_logo.png)
 
 #La idea#
 Sin embargo, además de poder ejecutar tus aplicaciones en todos esos lenguajes, también podrás con un simple truco, alojar una simple  web estática (HTML, CSS y JS).
