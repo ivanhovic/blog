@@ -5,7 +5,8 @@ date:   2015-02-24 18:46:47
 comments: true
 ---
 #¿Qué es Heroku?#
-[Heroku] permite construir y correr aplicaciones web hechas en PHP, Python, Ruby, Java... 
+[Heroku] permite construir y correr aplicaciones web hechas en PHP, Python, Ruby, Java...
+![My helpful screenshot]({{ site.url }}/assets/Heroku_logo.jpg)
 
 #La idea#
 Sin embargo, además de poder ejecutar tus aplicaciones en todos esos lenguajes, también podrás con un simple truco, alojar una simple  web estática (HTML, CSS y JS).
@@ -20,7 +21,7 @@ Para subir nuestra web a Heroku deberemos hacer un commit con git y agregar los 
 * `cd web_ejemplo`
 * `git add .`
 * `git commit -m "make it better"`
-* `git push heroku master`
+* `git push heroku master
 
 #Dominio#
 Si ya teniamos nuestro propio dominio será fácil agregarlo. Simplemente deberamos agregarlo en el dashboard de nuestra App y cambiar la configuración CNAME en nuestro proveedor de dominios.
