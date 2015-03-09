@@ -15,7 +15,7 @@ Sin embargo, además de poder ejecutar tus aplicaciones en todos esos lenguajes,
 Lo primero será darnos de alta en Heroku y crear una aplicación nueva desde el *dashboard*.
 
 Después, será imprescindible descargar e instalar [Heroku toolbelt] y [Git].
-Para comprobar si este paso está bien, entra en el terminal y escribe `heroku`y `git`. Si te sale algo parecido a lo de la imagen, estará bien:
+Para comprobar si este paso está bien, entra en el terminal y escribe `heroku`y `git`. Si la respuesta en alguno es `command not found` la instalación no será correcta.
 
 Ahora tan sólo deberemos renombrar nuestro index.html y cambiar la extensión a php (index.html --> index.php). Con ello, Heroku creerá que estamos creando una aplicación con PHP.
 
@@ -31,7 +31,7 @@ Si todo ha ido bien, la web estará disponible en **ejemplo.herokuapp.com**.
 
 Si por el contrario ya disponemos de nuestro propio dominio, será fácil redirigirlo a Heroku:
 - Agregar nuestro dominio en el dashboard de nuestra App.
-- Cambiar la configuración **DNS** en nuestro proveedor de dominios. En el registro **CNAME (WW)** poner **example.herokuapp.com.**
+- Cambiar la configuración **DNS** en nuestro proveedor de dominios. En el registro **CNAME (ww)** poner **example.herokuapp.com.**
 
 
 [Heroku]: http://heroku.com
