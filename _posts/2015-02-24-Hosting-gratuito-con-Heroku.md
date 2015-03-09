@@ -12,18 +12,18 @@ comments: true
 Sin embargo, además de poder ejecutar tus aplicaciones en todos esos lenguajes, también podrás con un simple truco, alojar una simple web estática (HTML, CSS y JS).
 
 #El proceso#
-Lo primero será darnos de alta en Heroku y crear una aplicación nueva desde el dashboard.
+Lo primero será darnos de alta en Heroku y crear una aplicación nueva desde el *dashboard*.
 
 Después, será imprescindible descargar e instalar [Heroku toolbelt] y [Git].
-Para comprobar si este paso está bien, entra en el terminal y escribe `heroku`y `git`. Si te sale algo parecido a lo de la imagen, estará bien.
+Para comprobar si este paso está bien, entra en el terminal y escribe `heroku`y `git`. Si te sale algo parecido a lo de la imagen, estará bien:
 
 Ahora tan sólo deberemos renombrar nuestro index.html y cambiar la extensión a php (index.html --> index.php). Con ello, Heroku creerá que estamos creando una aplicación con PHP.
 
-El último paso será subir nuestra web a Heroku con esta serie de pasos:
+El último paso será subir nuestra web a Heroku:
 
-* `cd web_ejemplo` // Accedemos a la carpeta que contiene nuestros archivos con el comando `cd`.
+* `cd web_ejemplo` // Accedemos al directorio que contiene nuestros archivos con el comando `cd`.
 * `git add .`  // Añadimos todos los ficheros a Git.
-* `git commit -m "subida a Heroku"` // Hacemos un commit de nuestros ficheros.
+* `git commit -m "subida a Heroku"` // Hacemos un *commit* de nuestros ficheros.
 * `git push heroku master` // Lo subimos a Heroku.
 
 #Dominio#
